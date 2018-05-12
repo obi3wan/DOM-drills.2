@@ -1,0 +1,11 @@
+.boxDivs {
+    height: 200px;
+    line-height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    color: azure;
+}
+
+body {
+    background-color: beige;
+}
